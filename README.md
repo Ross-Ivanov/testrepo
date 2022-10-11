@@ -17,3 +17,9 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 `#ffffff` "Dark text"
 
 `#0d1117` "Light Text"
+
+`#0969DA`
+
+`hsl(212, 92%, 45%)`
+
+`rgb(9, 105, 218)`
