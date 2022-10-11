@@ -1,32 +1,3 @@
 ## Testing area
 # testing hastags on md file
-
-Im creating this repository as a test environment
-
-Vscode 
-
-> this is quote
-
-jsut test
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. `#0969DA`
-
-['#0969DA' That text should be blue] 
-
-<span style="color:red">some **This is Red Bold.** text</span>
-
-`#ffffff` "Dark text"
-
-`#0d1117` "Light Text"
-
-`#0969DA`
-
-`hsl(212, 92%, 45%)`
-
-`rgb(9, 105, 218)`
-
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
-
-- ![#c5f015](https://via.placeholder.com/15/c5f015/c5f015.png) `#c5f015`
-
-- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
+### Testin 3 hash tags
