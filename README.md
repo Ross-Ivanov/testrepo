@@ -10,7 +10,7 @@ Vscode
 jsut test
 The background color should be `#ffffff` for light mode and `#0d1117` for dark mode. `#0969DA`
 
-![#0969DA] "That text should be blue"
+[#0969DA"That text should be blue"] 
 
 ![#ffffff] "Dark text"
 
