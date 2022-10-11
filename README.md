@@ -14,6 +14,6 @@ The background color should be `#ffffff` for light mode and `#0d1117` for dark m
 
 <span style="color:red">some **This is Red Bold.** text</span>
 
-![#ffffff] "Dark text"
+'#ffffff' "Dark text"
 
 ![#0d1117] "Light Text"
